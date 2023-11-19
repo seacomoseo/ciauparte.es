@@ -1,0 +1,33 @@
+title: Críticas
+subtitle: Lo que dicen de nosotros
+color: dark
+icon: comment-quote
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: main-dark
+    slider: true
+  items:
+  - title: '[Festival Circada 2021](https://festivalcircada.com/portfolio/uparte/)'
+    description: |
+      Desde el punto de vista circense,
+      estamos ante una troupe acrobática sin parangón en el circo contemporáneo español,
+      que ha ido incorporando más y más trucos y rescatando técnicas circenses de enorme riesgo y espectacularidad,
+      como la barra rusa.
+
+      Queda claro que para UpArte no existen límites.
+  - title: '[Umore Azoka 2019](http://www.umoreazoka.org/es/mejor-espectaculo-callejero/)'
+    description: |
+      La técnica circense se muestra impecable.
+
+      A través de un desarrollo perfectamente coreografiado,
+      el espectáculo nos sumerge en un crescendo de emociones.
+  - title: '[Malabarat 2014](http://www.espaimenut.com/2014/08/cronica-de-un-malabarat-que-pone-los-pelos-de-punta-y-el-liston-muy-alto/)'
+    description: |
+      Uno de esos espectáculos difíciles de describir.
+      Que te deja con el ay en la boca.
+      Que sorprende.
+      La **concentración, el esfuerzo y la entrega** de los integrantes de UpArte tuvo su correspondencia en un público que no dejó sin aplaudir ni una sola de las acrobacias, de los mortales, de las volteretas a varios metros de altura o las torres humanas.
+      Sin exagerar.
+      La plasticidad del ejercicio impresionó.

@@ -1,0 +1,33 @@
+title: Reviews
+subtitle: What they say about us
+color: dark
+icon: comment-quote
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: main-dark
+    slider: true
+  items:
+  - title: '[Circada 2021 Festival](https://festivalcircada.com/portfolio/uparte/)'
+    description: |
+      From the circus point of view,
+      we are in front of an acrobatic troupe without equal in the Spanish contemporary circus,
+      that has been incorporating more and more tricks and rescuing circus techniques of enormous risk and spectacularity,
+      such as the Russian bar.
+
+      It is clear that for UpArte there are no limits.
+  - title: '[Umore Azoka 2019](http://www.umoreazoka.org/es/mejor-espectaculo-callejero/)'
+    description: |
+      The circus technique is impeccable.
+
+      Through a perfectly choreographed development,
+      the show plunges us into a crescendo of emotions.
+  - title: '[Malabarat 2014](http://www.espaimenut.com/2014/08/cronica-de-un-malabarat-que-pone-los-pelos-de-punta-y-el-liston-muy-alto/)'
+    description: |
+      One of those shows difficult to describe.
+      That leaves you with the ay in your mouth.
+      That surprises.
+      The **concentration, effort and dedication** of the UpArte members was matched by an audience that did not fail to applaud a single one of the acrobatics, the somersaults, the somersaults several meters high or the human towers.
+      Without exaggeration.
+      The plasticity of the exercise impressed.

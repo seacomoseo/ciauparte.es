@@ -1,0 +1,12 @@
+anchor: Fotos UpArte Cia
+title: Fotos
+subtitle: UpArte Cia
+# description: |
+#   [btn icon-shirt DESproVISTO](#desprovisto)
+#   [btn icon-cube Áureo](#aureo)
+#   [btn icon-box-open Todo Encaja](#todo-encaja)
+color: dark
+icon: aperture
+more:
+  padding_top: 8
+  padding_bottom: 0

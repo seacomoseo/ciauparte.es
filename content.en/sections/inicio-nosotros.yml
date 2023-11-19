@@ -1,0 +1,22 @@
+title: About Us
+subtitle: About Our Company
+color: dark
+size: md
+icon: circle-info
+rows:
+- type: columns
+  design:
+    num: 7
+    align_y: center
+    align_x: space-evenly
+  items:
+  - span: 2
+    image: uparte-nosotros.jpg
+  - span: 4
+    link: '#more-about-us'
+    description: |
+      We are a contemporary circus company specializing in acrobatic tricks, banquets, towers, jumps into the void (both physical and metaphorical) and above all, we specialize in playing and enjoying what we do.
+
+      We offer shows in theatrical and street format for all audiences, in which, little by little, we have acquired a personal style characterized by: a high technical level, a constant search for balance between risk, aesthetics and humor, and artists without characters, but with a lot to offer. Works that will hardly leave the public indifferent.
+    more:
+      align: left

@@ -1,0 +1,27 @@
+title: Colaboradores
+subtitle: Amigos
+color: main-dark
+button: hide
+icon: handshake
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    contain: true
+    grayscale: true
+    ratio: 16x9
+  items:
+  - image: colaborador-la-chimenea-escenica.svg
+  - image: colaborador-ayuntamiento-murcia.svg
+  - image: colaborador-teatro-circo-murcia.svg
+  - image: colaborador-circo-a-escena.svg
+
+  - image: colaborador-carm.svg
+  - image: colaborador-ministerio-de-cutura-y-deporte.svg
+  - image: colaborador-inaem.svg
+  - image: colaborador-platea.svg
+
+  - image: colaborador-comisiones-artisticas-de-la-red.svg
+  - image: colaborador-zirkozaurre.svg
+  - image: colaborador-ica.svg

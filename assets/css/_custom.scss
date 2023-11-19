@@ -1,0 +1,47 @@
+// General
+
+.subtitle {
+  font-size: 1.5em;
+}
+%font-quotes {
+  font-family: $font-family-cursive;
+  font-style: $font-style-cursive;
+  font-weight: $font-weight-cursive;
+  line-height: $line-height-cursive;
+  font-size: 1.5em;
+}
+
+// Header
+
+#body-home #header,
+#body-inicio #header {
+  @media (min-aspect-ratio: 16/9) {
+    height: 56.25vw;
+  }
+  @mixin logo($delay) {
+    animation: logo .5s (.5s + .1 * $delay) both;
+  }
+  .subtitle {
+    @include logo(1);
+  }
+  .button {
+    @include logo(2);
+  }
+  picture.image__inner {
+    @include logo(2);
+  }
+}
+
+// Other
+
+#premios {
+  .column .description {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: $screen-lg) {
+  th:first-child {
+    white-space: unset;
+  }
+}

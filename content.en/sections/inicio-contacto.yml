@@ -1,0 +1,101 @@
+title: Contact
+subtitle: What are you waiting for?
+color: dark
+button: link
+size: sm
+icon: paper-plane
+rows:
+- type: contact
+  data:
+  - type: h3
+    label: Information and/or Recruitment
+
+  - type: custom
+    link: https://www.instagram.com/uparte.cia/
+    label: '@uparte.cia'
+    icon: instagram
+    font_alt: true
+    button: light
+  - type: custom
+    link: https://www.facebook.com/cia.uparte
+    label: UpArte Cia
+    icon: facebook-f
+    font_alt: true
+
+    button: light
+  - type: mail
+    label: uparte.cia@gmail.com
+    full: true
+
+    button: light
+  - type: h4
+    label: Gisela
+  - type: phone
+    label: (+34) 636 10 59 54
+  - type: whatsapp
+    label: (+34) 636 10 59 54
+    button: link
+
+  - type: h4
+    label: Guimel
+  - type: phone
+    label: (+34) 636 31 93 39
+  - type: whatsapp
+    label: (+34) 636 31 93 39
+    button: link
+
+  - type: hr
+
+  - type: h3
+    label: Distribution Spain
+
+  - type: h4
+    label: Nacho Vilar
+  - type: phone
+    label: (+34) 609 67 59 99
+  - type: whatsapp
+    label: (+34) 609 67 59 99
+    button: link
+  - type: mail
+    label: produccion@nachovilar.com
+    full: true
+    button: light
+
+  - type: h4
+    label: Emmanuel Vizcaíno
+  - type: phone
+    label: (+34) 620 445 990
+  - type: whatsapp
+    label: (+34) 620 445 990
+    button: link
+  - type: mail
+    label: distribucion@nachovilar.com
+    full: true
+    button: light
+
+  - type: hr
+
+  - type: address
+    active: false
+    name: La Chimenea Escénica
+    streetAddress: C. Chimeneas, 13
+    postalCode: 30110
+    addressLocality: Torre Alcayna
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1396656,38.0186938]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://maps.google.es/maps?q=La%20Chimenea%20Esc%C3%83%C2%A9nica,%20C.%20Chimeneas,%2013,%2030110%20Torre%20Alcayna,%20Murcia

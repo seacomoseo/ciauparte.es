@@ -1,0 +1,30 @@
+title: Nosotros
+subtitle: Sobre Nuestra Compañía
+color: dark
+size: md
+icon: circle-info
+rows:
+- type: columns
+  design:
+    num: 7
+    align_y: center
+    align_x: space-evenly
+  items:
+  - span: 2
+    image: uparte-nosotros.jpg
+  - span: 4
+    link: '#mas-nosotros'
+    description: |
+      Somos una compañía de circo contemporáneo especializada en portes
+      acrobáticos, banquinas, torres, saltos al vacío (tanto físicos como
+      metafóricos) y sobre todo, especializada en jugar y disfrutar de lo
+      que hacemos.
+
+      Ofrecemos espectáculos en formato sala y calle para todos los públicos,
+      en los que, poco a poco, hemos ido adquiriendo un estilo personal
+      caracterizado por: un alto nivel técnico, una búsqueda constante de
+      equilibrio entre el riesgo, lo estético y el humor, y unos artistas sin
+      personajes, pero con mucho que ofrecer. Obras que difícilmente dejarán
+      al público indiferente.
+    more:
+      align: left

@@ -1,0 +1,38 @@
+id: more-about-us
+title: More
+subtitle: About Us
+icon: circle-plus
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+  items:
+  - span: 2
+    description: |
+      UpArte company was born in Murcia at the end of 2012 under the roof of La Chimenea Escénica. What would begin as a fun hobby of a group of young people, with no other expectations than to enjoy and live experiences, would soon become a professional project that would catch body and soul to its members, who would begin a great adventure to become the professional circus company that they are today.
+
+      Among the numerous festivals in which the Murcian troupe has been part of, it is worth mentioning its first appearance in CIRCADA OFF 2014, where the company was awarded with the participation in the official programming of the following year, an opportunity that would be used to present its first large-format work Todo encaja (2015).
+  - image: espectaculo-todo-encaja-11.jpg
+  - image: espectaculo-todo-encaja-12.jpg
+  - span: 2
+    description: |
+      With Todo encaja the company would begin its professional career stepping on important national and international stages, performing more than 150 functions and receiving awards in recognition of its work, such as the one obtained at the International Festival Cirque Arts Khourigba in Morocco (2017) or the Azahar Award of the Performing Arts of Murcia for best street show (2017).
+
+      UpArte would continue its artistic production with the show ÁUREO, premiered in 2018 at the Teatro Circo Murcia, a work with which it would again have a long career, participating in numerous important festivals in the country, such as the A.R.CA festival of Aguilar del Campoo (2019) and the UMORE AZOKA fair in Leioa (2019), where it would receive jury and audience awards for best show.
+  - image: espectaculo-aureo-11.jpg
+    more:
+      ratio: 4x3
+  - image: espectaculo-aureo-12.jpg
+    more:
+      ratio: 4x3
+  - span: 2
+    description: |
+      Currently the company is in the final stages of production of its third creation, DESproVISTO, a work that will premiere in December 2022 at the Teatro Circo Murcia.
+  - span: 2
+    image: espectaculo-desprovisto-9.jpg
+  - span: 2
+    description: |
+      In its shows, UpArte has always sought to get out of its comfort zone, encouraging me from its beginnings to bet on the most difficult yet, a spirit instilled by its trainer Vitaliy Motouzka, former Russian acrobat trained in the most traditional and classic circus. In addition, the company has always sought new horizons and challenges, betting on a contemporary language, deepening the aesthetic and conceptual aspects of their productions, humor, as well as launching into the void with new disciplines for them, such as juggling, Russian bar or contemporary dance.
+
+      As a result UpArte offers very visual shows for all audiences, of a high technical level, entertaining and risky, where it will be difficult to contain a smile or stay with your back glued to the seat.
