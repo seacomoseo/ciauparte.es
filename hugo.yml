@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/uparte/ciauparte.es
   netlify_name: uparte
   netlify_id: e60ea7e3-06f3-48a1-ab69-9792eee063ee
+  hook: NjMxOGRmNGNjNzM3NmIwNzI3NWY1MDJl
   drive_link: https://drive.google.com/file/d/18B6shVgYTaZ4nywh_6Om-OtYR_bTZebv
   drive_mails: uparte.cia@gmail.com
 defaultContentLanguage: es
