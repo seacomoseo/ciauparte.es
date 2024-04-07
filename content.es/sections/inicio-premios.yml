@@ -1,7 +1,7 @@
 title: Premios
 subtitle: y galardones
-color: dark
 icon: award-simple
+color: dark
 rows:
 - type: steps
   design:
@@ -46,4 +46,13 @@ rows:
     subtitle: Mejor Espectáculo de Calle
     icon: award
     description: |
-      Umore Azoka <br> Leioa
+      Umore Azoka 
+
+       Leioa
+  - title: 2023 · DESproVISTO
+    subtitle: Mejor Espectáculo de Circo
+    description: |
+      Festival Internacional de Teatro y Artes de Calle
+
+       Valladolid
+    icon: award
