@@ -40,15 +40,80 @@
 
 # 2024-04-08
 
-/fotos/ /fotos/
-
-/media/espectaculo-desprovisto.jpg /media/espectaculo/desprovisto/1.jpg
+/en/photos/ /fotos/
+/media/raider-street-desprovisto-en.pdf /media/pdf/raider-street-desprovisto-en.pdf
+/media/raider-sala-aureo-es.pdf /media/pdf/raider-sala-aureo-es.pdf
+/media/raider-sala-desprovisto-es.pdf /media/pdf/raider-sala-desprovisto-es.pdf
+/media/raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
+/media/raider-street-aureo-en.pdf /media/pdf/raider-street-aureo-en.pdf
+/media/raider-room-aureo-en.pdf /media/pdf/raider-room-aureo-en.pdf
+/media/raider-room-desprovisto-en.pdf /media/pdf/raider-room-desprovisto-en.pdf
+/media/raider-calle-todo-encaja-es.pdf /media/pdf/raider-calle-todo-encaja-es.pdf
+/media/raider-calle-aureo-es.pdf /media/pdf/raider-calle-aureo-es.pdf
+/media/raider-calle-desprovisto-es.pdf /media/pdf/raider-calle-desprovisto-es.pdf
+/media/dossier-todo-encaja-es.pdf /media/pdf/dossier-todo-encaja-es.pdf
+/media/dossier-desprovisto-en.pdf /media/pdf/dossier-desprovisto-en.pdf
+/media/dossier-desprovisto-es.pdf /media/pdf/dossier-desprovisto-es.pdf
+/media/dossier-aureo-es.pdf /media/pdf/dossier-aureo-es.pdf
+/media/dossier-aureo-en.pdf /media/pdf/dossier-aureo-en.pdf
+/media/espectaculo-desprovisto.jpg /media/espectaculo/desprovisto./1jpg
+/media/espectaculo-desprovisto-2.jpg /media/espectaculo/desprovisto/2.jpg
+/media/espectaculo-desprovisto-3.jpg /media/espectaculo/desprovisto/3.jpg
+/media/espectaculo-desprovisto-4.jpg /media/espectaculo/desprovisto/4.jpg
+/media/espectaculo-desprovisto-5.jpg /media/espectaculo/desprovisto/5.jpg
+/media/espectaculo-desprovisto-6.jpg /media/espectaculo/desprovisto/6.jpg
+/media/espectaculo-desprovisto-7.jpg /media/espectaculo/desprovisto/7.jpg
+/media/espectaculo-desprovisto-8.jpg /media/espectaculo/desprovisto/8.jpg
+/media/espectaculo-desprovisto-9.jpg /media/espectaculo/desprovisto/9.jpg
+/media/espectaculo-desprovisto-10.jpg /media/espectaculo/desprovisto/10.jpg
+/media/espectaculo-desprovisto-11.jpg /media/espectaculo/desprovisto/11.jpg
+/media/espectaculo-desprovisto-14.jpg /media/espectaculo/desprovisto/14.jpg
+/media/espectaculo-desprovisto-16.jpg /media/espectaculo/desprovisto/16.jpg
+/media/espectaculo-desprovisto-20.jpg /media/espectaculo/desprovisto/20.jpg
+/media/espectaculo-desprovisto-23.jpg /media/espectaculo/desprovisto/23.jpg
+/media/espectaculo-desprovisto-25.jpg /media/espectaculo/desprovisto/25.jpg
+/media/espectaculo-desprovisto-30.jpg /media/espectaculo/desprovisto/30.jpg
+/media/espectaculo-desprovisto-36.jpg /media/espectaculo/desprovisto/36.jpg
+/media/espectaculo-desprovisto-40.jpg /media/espectaculo/desprovisto/40.jpg
+/media/espectaculo-desprovisto-44.jpg /media/espectaculo/desprovisto/44.jpg
+/media/espectaculo-desprovisto-49.jpg /media/espectaculo/desprovisto/49.jpg
+/media/espectaculo-desprovisto-51.jpg /media/espectaculo/desprovisto/51.jpg
+/media/espectaculo-desprovisto-53.jpg /media/espectaculo/desprovisto/53.jpg
+/media/espectaculo-desprovisto-55.jpg /media/espectaculo/desprovisto/55.jpg
+/media/espectaculo-desprovisto-57.jpg /media/espectaculo/desprovisto/57.jpg
+/media/espectaculo-desprovisto-62.jpg /media/espectaculo/desprovisto/62.jpg
 /media/espectaculo-aureo.jpg /media/espectaculo/aureo/1.jpg
+/media/espectaculo-aureo-2.jpg /media/espectaculo/aureo/2.jpg
+/media/espectaculo-aureo-3.jpg /media/espectaculo/aureo/3.jpg
+/media/espectaculo-aureo-4.jpg /media/espectaculo/aureo/4.jpg
+/media/espectaculo-aureo-5.jpg /media/espectaculo/aureo/5.jpg
+/media/espectaculo-aureo-6.jpg /media/espectaculo/aureo/6.jpg
+/media/espectaculo-aureo-7.jpg /media/espectaculo/aureo/7.jpg
+/media/espectaculo-aureo-8.jpg /media/espectaculo/aureo/8.jpg
+/media/espectaculo-aureo-9.jpg /media/espectaculo/aureo/9.jpg
+/media/espectaculo-aureo-10.jpg /media/espectaculo/aureo/10.jpg
+/media/espectaculo-aureo-11.jpg /media/espectaculo/aureo/11.jpg
+/media/espectaculo-aureo-12.jpg /media/espectaculo/aureo/12.jpg
+/media/espectaculo-aureo-13.jpg /media/espectaculo/aureo/13.jpg
+/media/espectaculo-aureo-14.jpg /media/espectaculo/aureo/14.jpg
 /media/espectaculo-todo-encaja.jpg /media/espectaculo/todo-encaja/1.jpg
-
-/media/espectaculo-desprovisto-*.jpg /media/espectaculo/desprovisto/:splat.jpg 301!
-/media/espectaculo-aureo-*.jpg /media/espectaculo/aureo/:splat.jpg 301!
-/media/espectaculo-todo-encaja-*.jpg /media/espectaculo/todo-encaja/:splat.jpg 301!
-
-/media/raider-*.pdf /media/pdf/raider-:splat.pdf 301!
-/media/dossier-*.pdf /media/pdf/dossier-:splat.pdf 301!
+/media/espectaculo-todo-encaja-2.jpg /media/espectaculo/todo-encaja/2.jpg
+/media/espectaculo-todo-encaja-3.jpg /media/espectaculo/todo-encaja/3.jpg
+/media/espectaculo-todo-encaja-4.jpg /media/espectaculo/todo-encaja/4.jpg
+/media/espectaculo-todo-encaja-5.jpg /media/espectaculo/todo-encaja/5.jpg
+/media/espectaculo-todo-encaja-6.jpg /media/espectaculo/todo-encaja/6.jpg
+/media/espectaculo-todo-encaja-7.jpg /media/espectaculo/todo-encaja/7.jpg
+/media/espectaculo-todo-encaja-8.jpg /media/espectaculo/todo-encaja/8.jpg
+/media/espectaculo-todo-encaja-9.jpg /media/espectaculo/todo-encaja/9.jpg
+/media/espectaculo-todo-encaja-10.jpg /media/espectaculo/todo-encaja/10.jpg
+/media/espectaculo-todo-encaja-11.jpg /media/espectaculo/todo-encaja/11.jpg
+/media/espectaculo-todo-encaja-12.jpg /media/espectaculo/todo-encaja/12.jpg
+/media/espectaculo-todo-encaja-15.jpg /media/espectaculo/todo-encaja/15.jpg
+/media/espectaculo-todo-encaja-16.jpg /media/espectaculo/todo-encaja/16.jpg
+/media/espectaculo-todo-encaja-17.jpg /media/espectaculo/todo-encaja/17.jpg
+/media/espectaculo-todo-encaja-18.jpg /media/espectaculo/todo-encaja/18.jpg
+/media/espectaculo-todo-encaja-19.jpg /media/espectaculo/todo-encaja/19.jpg
+/media/espectaculo-todo-encaja-20.jpg /media/espectaculo/todo-encaja/20.jpg
+/media/espectaculo-todo-encaja-21.jpg /media/espectaculo/todo-encaja/21.jpg
+/media/espectaculo-todo-encaja-22.jpg /media/espectaculo/todo-encaja/22.jpg
+/media/espectaculo-todo-encaja-23.jpg /media/espectaculo/todo-encaja/23.jpg
