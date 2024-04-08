@@ -7,8 +7,6 @@ image: fondo.jpg
 draft: false
 noindex: false
 translationKey: fotos
-# menu:
-#   hide_sticky: true
 sections:
 - file: fotos/header
 - file: fotos/desprovisto
