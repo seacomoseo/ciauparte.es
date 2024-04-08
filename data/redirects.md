@@ -36,3 +36,16 @@
 /en/category/sin-categoria/ /en/
 /en/author/ruben89martinez/ /en/author/admin/
 /en/inicio-english__trashed/ /en/
+
+# 2024-04-08
+
+/media/espectaculo-desprovisto.jpg /media/espectaculo/desprovisto/1.jpg
+/media/espectaculo-aureo.jpg /media/espectaculo/aureo/1.jpg
+/media/espectaculo-todo-encaja.jpg /media/espectaculo/todo-encaja/1.jpg
+
+/media/espectaculo-desprovisto-:num.jpg /media/espectaculo/desprovisto/:num.jpg
+/media/espectaculo-aureo-:num.jpg /media/espectaculo/aureo/:num.jpg
+/media/espectaculo-todo-encaja-:num.jpg /media/espectaculo/todo-encaja/:num.jpg
+
+/media/raider-*.pdf /media/pdf/raider-:splat.pdf
+/media/dossier-*.pdf /media/pdf/dossier-:splat.pdf

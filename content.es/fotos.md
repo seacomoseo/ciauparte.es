@@ -10,8 +10,8 @@ translationKey: fotos
 # menu:
 #   hide_sticky: true
 sections:
-- file: fotos-header
-- file: fotos-desprovisto
-- file: fotos-aureo
-- file: fotos-todo-encaja
+- file: fotos/header
+- file: fotos/desprovisto
+- file: fotos/aureo
+- file: fotos/todo-encaja
 ---

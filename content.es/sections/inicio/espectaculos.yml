@@ -1,0 +1,32 @@
+title: Espectáculos
+subtitle: ¡A volar!
+color: main-dark
+size: lg
+icon: stars
+rows:
+- type: columns
+  design:
+    num: 3
+    color: dark
+    icon_type: bottom
+    ratio: 4x3
+    inset: true
+  items:
+  - title: DESproVISTO
+    link: '#desprovisto'
+    image: espectaculo/desprovisto/57.jpg
+    icon: shirt
+    description: |
+      Expresión de la liberación del yugo que los prejuicios, los roles y las apariencias suponen...
+  - title: Áureo
+    link: '#aureo'
+    image: espectaculo/aureo/1.jpg
+    icon: cube
+    description: |
+      Inspirándose en la divina proporción y el numero Phi, Áureo pretende sumergir al...
+  - title: Todo Encaja
+    link: '#todo-encaja'
+    image: espectaculo/todo-encaja/1.jpg
+    icon: box-open
+    description: |
+      Seis cuerpos sobre el escenario suben, bajan, bailan, pero sobre todo ¡saltan!...

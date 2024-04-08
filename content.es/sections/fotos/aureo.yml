@@ -1,0 +1,29 @@
+title: Áureo
+subtitle: Fotos
+anchor: Fotos Áureo
+color: dark
+icon: cube
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - espectaculo/aureo/1.jpg
+  - espectaculo/aureo/2.jpg
+  - espectaculo/aureo/3.jpg
+  - espectaculo/aureo/4.jpg
+  - espectaculo/aureo/5.jpg
+  - espectaculo/aureo/6.jpg
+  - espectaculo/aureo/7.jpg
+  - espectaculo/aureo/8.jpg
+  - espectaculo/aureo/9.jpg
+  - espectaculo/aureo/10.jpg
+  - espectaculo/aureo/11.jpg
+  - espectaculo/aureo/12.jpg
+  - espectaculo/aureo/13.jpg

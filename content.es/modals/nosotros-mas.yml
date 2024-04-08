@@ -1,0 +1,38 @@
+id: nosotros-mas
+title: Más
+subtitle: Sobre Nosotros
+icon: circle-plus
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+  items:
+  - span: 2
+    description: |
+      La compañía UpArte nace en Murcia a finales de 2012 bajo el techo de La Chimenea Escénica. Lo que comenzaría por una afición divertida de un grupo de jóvenes, sin más expectativas que disfrutar y vivir experiencias, pronto se convertiría en un proyecto profesional que atraparía en cuerpo y alma a sus integrantes, los cuales comenzarían una gran aventura hasta convertirse en la compañía profesional de circo que son a día de hoy.
+
+      Entre los numerosos festivales en los que la troupe murciana ha formado parte, cabe destacar su primera aparición en CIRCADA OFF 2014, donde la compañía fue premiada con la participación en la programación oficial del siguiente año, oportunidad que aprovecharía para presentar su primer trabajo de gran formato Todo encaja (2015).
+  - image: espectaculo/todo-encaja/11.jpg
+  - image: espectaculo/todo-encaja/12.jpg
+  - span: 2
+    description: |
+      Con Todo encaja la compañía comenzaría su carrera profesional pisando importantes escenarios nacionales e internacionales, realizando más de 150 funciones y recibiendo premios en reconocimiento a su trabajo, como el obtenido en el Festival Internacional Cirque Arts Khourigba de Marruecos (2017) o el Premio Azahar de las Artes Escénicas de Murcia a mejor espectáculo de calle (2017).
+
+      UpArte continuaría su producción artística con el espectáculo ÁUREO, estrenado en 2018 en el Teatro Circo Murcia, obra con la que volvería a tener una larga trayectoria, participando en numerosos festivales importantes del país, como el festival A.R.CA de Aguilar del Campoo (2019) y la feria UMORE AZOKA de Leioa (2019), en los que recibiría premios del jurado y del público a mejor espectáculo.
+  - image: espectaculo/aureo/11.jpg
+    more:
+      ratio: 4x3
+  - image: espectaculo/aureo/12.jpg
+    more:
+      ratio: 4x3
+  - span: 2
+    description: |
+      Actualmente la compañía se encuentra en la fase final de producción de su tercera creación, DESproVISTO, trabajo que estrenará en diciembre de 2022 en el Teatro Circo Murcia.
+  - span: 2
+    image: espectaculo/desprovisto/9.jpg
+  - span: 2
+    description: |
+      En sus espectáculos, UpArte siempre ha buscado salir de su zona de confort, animándome desde sus inicios a una apuesta por el más difícil todavía, espíritu inculcado por su entrenador Vitaliy Motouzka,ex-acróbata ruso formado en el circo más tradicional y clásico. Además, la compañía ha buscado siempre nuevos horizontes y retos, apostando por un lenguaje contemporáneo, profundizando en la estética y lo conceptual de sus montajes, el humor, así como lanzándose al vacío con nuevas disciplinas para ellos, como los malabares, la barra rusa o la danza contemporánea.
+
+      Como resultado UpArte ofrece espectáculos muy visuales para todos los públicos, de un alto nivel técnico, entretenidos y arriesgados, donde será difícil contener una sonrisa o permanecer con la espalda pegada al asiento.

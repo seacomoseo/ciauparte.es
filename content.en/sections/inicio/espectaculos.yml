@@ -1,0 +1,32 @@
+title: Shows
+subtitle: Let's fly!
+color: main-dark
+size: lg
+icon: stars
+rows:
+- type: columns
+  design:
+    num: 3
+    color: dark
+    icon_type: bottom
+    ratio: 4x3
+    inset: true
+  items:
+  - title: DESproVISTO
+    link: '#desprovisto'
+    image: espectaculo/desprovisto/57.jpg
+    icon: shirt
+    description: |
+      Expression of the liberation from the yoke that prejudices, roles and appearances suppose...
+  - title: Áureo
+    link: '#aureo'
+    image: espectaculo/aureo/1.jpg
+    icon: cube
+    description: |
+      Inspired by the divine proportion and the number Phi, Áureo aims to immerse the audience in...
+  - title: Todo Encaja
+    link: '#todo-encaja'
+    image: espectaculo/todo-encaja/1.jpg
+    icon: box-open
+    description: |
+      Six bodies on stage go up, down, dance, but above all, jump!...

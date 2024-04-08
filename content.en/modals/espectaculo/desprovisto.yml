@@ -1,0 +1,45 @@
+title: DESproVISTO
+subtitle: Touring show
+image: https://youtu.be/y9N5n0dGTDc
+icon: shirt
+more:
+  ratio: 16x9
+  inset: true
+rows:
+- type: columns
+  design:
+    num: 1
+    align: left
+  items:
+  - description: |
+      Devoid of everything but ourselves, the eternal search to free ourselves from appearances, prejudices and roles, showing ourselves naked and vulnerable to the world, where we will always find the other in moments of doubt or danger. DESPROVISTO is a bet for plasticity, flexibility and change, realizing that not everything has to be always the same way.
+  - image: espectaculo/desprovisto/62.jpg
+  - description: |
+      **DESproVISTO** is the third work of the company UpArte, a work that maintains the essence of his previous works, which stand out for a high technical acrobatic level, performers without characters and a leitmotif that moves the work, but which is not a priority to know to enjoy the show. A search for balance between risk, rhythm, aesthetics and humor. At the same time, DESproVISTO intends to give a change from the rigid to the flexible, a basic concept of the work that can be seen in the elements used on stage (fabrics) and in the corporal proposal, incorporating contemporary dance to the work of the company.
+  - image: espectaculo/desprovisto/51.jpg
+  - description: |
+      DESproVISTO is a contemporary circus work for all audiences, which wants to reach the spectator in form and substance, in which the artists will experience a process of transformation where the acrobatic technique and dance will be part of their common language.
+  - description: |
+      - icon-clock Duration: 50 min.
+      - icon-check Collective creation of the company UpArte.
+      - icon-child-reaching For all audiences.
+      - icon-triangle-exclamation Be prepared to hold your breath.
+  - description: |
+      | Ficha artística                                             |
+      | ------------------------------- | ------------------------- |
+      | Address                         | **Pau Portabella**        |
+      | Interpreters-creators           | **Gisela Segatti**, **Guimelh Amaro**, **Paco Caravaca**, **Sofía Acosta**, **Daniel Luengo** y **Alma Montero** |
+      | Image and communication         | **Andrés Guerrero**, **Emmanuel Vizcaíno** and **Sofía Acosta** |
+      | Acrobatic technique direction   | **Vitaliy Motuzka**       |
+      | Costumes                        | **Rocío Pérez**           |
+      | Lighting and sound              | **Pedro Antonio Bermejo** |
+      | Co-produced by                  | **UpArte** and **Nacho Vilar Producciones** |
+  - description: |
+      [btn icon-download Dossier](dossier-desprovisto-en.pdf)
+      [btn icon-download Raider Street](raider-street-desprovisto-en.pdf) 
+      [btn icon-download Raider Room](raider-room-desprovisto-en.pdf) 
+
+      [btn icon-aperture Photos](/en/photos/#desprovisto) 
+      [btn icon-paper-plane Contact](#contact)
+    more:
+      align: center
