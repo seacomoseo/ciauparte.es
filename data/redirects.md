@@ -37,7 +37,10 @@
 /en/author/ruben89martinez/ /en/author/admin/
 /en/inicio-english__trashed/ /en/
 
+
 # 2024-04-08
+
+/fotos/ /fotos/
 
 /media/espectaculo-desprovisto.jpg /media/espectaculo/desprovisto/1.jpg
 /media/espectaculo-aureo.jpg /media/espectaculo/aureo/1.jpg
