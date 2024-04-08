@@ -46,9 +46,9 @@
 /media/espectaculo-aureo.jpg /media/espectaculo/aureo/1.jpg
 /media/espectaculo-todo-encaja.jpg /media/espectaculo/todo-encaja/1.jpg
 
-/media/espectaculo-desprovisto-*.jpg /media/espectaculo/desprovisto/:splat.jpg
-/media/espectaculo-aureo-*.jpg /media/espectaculo/aureo/:splat.jpg
-/media/espectaculo-todo-encaja-*.jpg /media/espectaculo/todo-encaja/:splat.jpg
+/media/espectaculo-desprovisto-*.jpg /media/espectaculo/desprovisto/:splat.jpg 301!
+/media/espectaculo-aureo-*.jpg /media/espectaculo/aureo/:splat.jpg 301!
+/media/espectaculo-todo-encaja-*.jpg /media/espectaculo/todo-encaja/:splat.jpg 301!
 
-/media/raider-*.pdf /media/pdf/raider-:splat.pdf
-/media/dossier-*.pdf /media/pdf/dossier-:splat.pdf
+/media/raider-*.pdf /media/pdf/raider-:splat.pdf 301!
+/media/dossier-*.pdf /media/pdf/dossier-:splat.pdf 301!
