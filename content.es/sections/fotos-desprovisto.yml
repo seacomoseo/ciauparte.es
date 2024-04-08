@@ -1,8 +1,8 @@
 title: DESproVISTO
-subtitle: Fotos
 anchor: Fotos DESproVISTO
-color: dark
+subtitle: Fotos
 icon: shirt
+color: dark
 rows:
 - type: gallery
   design:
@@ -33,3 +33,6 @@ rows:
   - espectaculo-desprovisto-40.jpg
   - espectaculo-desprovisto-20.jpg
   - ensayo-desprovisto-2.jpg
+  - /dsc05445.jpg
+  - /dsc05487.jpg
+  - /dsc05461.jpg
