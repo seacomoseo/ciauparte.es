@@ -11,6 +11,9 @@ rows:
     num: 4
     num_xs: true
   items:
+  - link: /#agenda-2025
+  # link: "#schedule-2025"
+    label: 2025
   - link: /#agenda-2024
   # link: "#schedule-2024"
     label: 2024

@@ -19,6 +19,8 @@ sections:
   - espectaculo/todo-encaja
 - file: inicio/agenda
   # modals:
+  # - agenda/2025
+  # - agenda/2024
   # - agenda/2023
   # - agenda/2022
   # - agenda/2021
