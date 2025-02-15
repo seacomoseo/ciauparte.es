@@ -117,3 +117,16 @@
 /media/espectaculo-todo-encaja-21.jpg /media/espectaculo/todo-encaja/21.jpg
 /media/espectaculo-todo-encaja-22.jpg /media/espectaculo/todo-encaja/22.jpg
 /media/espectaculo-todo-encaja-23.jpg /media/espectaculo/todo-encaja/23.jpg
+
+# 2025-02-15
+
+/es/dossier-aureo-es.pdf /media/pdf/dossier-aureo-es.pdf
+/es/dossier-desprovisto-es.pdf /media/pdf/dossier-desprovisto-es.pdf
+/es/dossier-todo-encaja-es.pdf /media/pdf/dossier-todo-encaja-es.pdf
+/es/raider-calle-aureo-es.pdf /media/pdf/raider-calle-aureo-es.pdf
+/es/raider-calle-desprovisto-es.pdf /media/pdf/raider-calle-desprovisto-es.pdf
+/es/raider-calle-todo-encaja-es.pdf /media/pdf/raider-calle-todo-encaja-es.pdf
+/es/raider-sala-aureo-es.pdf /media/pdf/raider-sala-aureo-es.pdf
+/es/raider-sala-desprovisto-es.pdf /media/pdf/raider-sala-desprovisto-es.pdf
+/es/raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
+/raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
