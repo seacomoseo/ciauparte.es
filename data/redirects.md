@@ -130,3 +130,22 @@
 /es/raider-sala-desprovisto-es.pdf /media/pdf/raider-sala-desprovisto-es.pdf
 /es/raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
 /raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
+/dossier-aureo-es.pdf /media/pdf/dossier-aureo-es.pdf
+/en/dossier-aureo-en.pdf /media/pdf/dossier-aureo-en.pdf
+/en/dossier-desprovisto-en.pdf /media/pdf/dossier-desprovisto-en.pdf
+/en/raider-calle-todo-encaja-es.pdf /media/pdf/raider-calle-todo-encaja-es.pdf
+/en/raider-room-aureo-en.pdf /media/pdf/raider-room-aureo-en.pdf
+/en/raider-room-desprovisto-en.pdf /media/pdf/raider-room-desprovisto-en.pdf
+/en/raider-sala-todo-encaja-es.pdf /media/pdf/raider-sala-todo-encaja-es.pdf
+/en/raider-street-aureo-en.pdf /media/pdf/raider-street-aureo-en.pdf
+/en/raider-street-desprovisto-en.pdf /media/pdf/raider-street-desprovisto-en.pdf
+/raider-calle-desprovisto-es.pdf /media/pdf/raider-calle-desprovisto-es.pdf
+/raider-calle-todo-encaja-es.pdf /media/pdf/raider-calle-todo-encaja-es.pdf
+/raider-sala-desprovisto-es.pdf /media/pdf/raider-sala-desprovisto-es.pdf
+/wp-content/uploads/2019/11/ÁUREO-Dossier-ES.pdf /media/pdf/dossier-aureo-es.pdf
+/agenda/ /#agenda
+/descargas/ /
+/downloads/ /en/
+/feed/ /feed.xml
+/privacy/ /en/privacy/
+/#todo-encaja
