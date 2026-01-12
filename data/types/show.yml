@@ -1,0 +1,34 @@
+title: Expectáculos
+weight: 1
+base: service
+icon: auto_awesome
+emoji: ✨
+tpl:
+  bg:
+    color: cta-dark
+    fade: dark
+    fade_to: r
+  menu:
+    logo: y
+    sticky: auto
+    size: xl
+  callnow: auto
+  section:
+  - size: lg
+    box:
+      caps: y
+  sections:
+  - file: show-_header
+  - file: show-detalles
+  - file: show-elenco
+  - file: show-fotos
+  - file: contacto
+  list:
+    to: left
+    color: such
+    align: center
+    icon_pos: sub
+    ratio: 4/3
+    inset: y
+    btn: cta
+    pin: add

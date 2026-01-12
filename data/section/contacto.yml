@@ -1,0 +1,88 @@
+name: Contacto
+menu_btn: cta
+boxes:
+- title: '{{ get contact.title }}'
+  sub: '{{ get contact.sub }}'
+  icon: send
+  box:
+    cols: 2
+  boxes:
+  - links:
+    - type: h3
+      label: '{{ get contact.info }}'
+    - type: custom
+      url: https://www.instagram.com/uparte.cia/
+      label: '@uparte.cia'
+      icon: brand:instagram
+      swap: y
+      btn: light
+    - type: custom
+      url: https://www.facebook.com/cia.uparte
+      label: UpArte Cia
+      icon: brand:facebook-f
+      swap: y
+      btn: light
+    - type: mail
+      label: uparte.cia@gmail.com
+      full: y
+      btn: light
+    - type: h4
+      label: Gisela
+    - type: phone
+      label: (+34) 636 10 59 54
+    - type: whatsapp
+      label: (+34) 636 10 59 54
+      btn: cta
+    - type: h4
+      label: Guimel
+    - type: phone
+      label: (+34) 636 31 93 39
+    - type: whatsapp
+      label: (+34) 636 31 93 39
+      btn: cta
+    - type: hr
+  - links:
+    - type: h3
+      label: '{{ get contact.distr }}'
+    - type: h4
+      label: Nacho Vilar
+    - type: phone
+      label: (+34) 609 67 59 99
+    - type: whatsapp
+      label: (+34) 609 67 59 99
+      btn: cta
+    - type: mail
+      label: produccion@nachovilar.com
+      full: y
+      btn: light
+    - type: h4
+      label: Emmanuel Vizcaíno
+    - type: phone
+      label: (+34) 620 445 990
+    - type: whatsapp
+      label: (+34) 620 445 990
+      btn: cta
+    - type: mail
+      label: distribucion@nachovilar.com
+      full: y
+      btn: light
+    - type: hr
+  - form:
+      fill: y
+    inputs:
+    - type: text
+      name: name
+      label: '{{ get contact.name }}'
+      req: y
+    - type: mail
+      name: mail
+      label: '{{ get contact.mail }}'
+      req: y
+    - type: area
+      name: message
+      label: '{{ get contact.message }}'
+      req: y
+  - geos:
+    - type: point
+      label: La Chimenea Escénica <br> C. Chimeneas, 13 30110 Torre Alcayna, Murcia, España
+      geo: '{"type":"Point","coordinates":[-1.1396656,38.0186938]}'

@@ -1,0 +1,18 @@
+name: Inicio ➡️ Header
+bi: /u/desprovisto.mp4#t=20&poster=fondo.jpg
+fade: dark
+pt: 2
+pb: 3
+scroll: fix
+fade_to: r
+div: arrow
+alpha: 0.7
+boxes:
+- img: /u/base/logo.svg
+  url: '#more'
+  pin: add
+  get:
+  - from: header
+    to: hanchor
+  - from: header
+    to: sub

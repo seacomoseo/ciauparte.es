@@ -1,0 +1,20 @@
+name: Espectáculos ➡️ Elenco
+id: elenco
+if: casts
+size: xl
+boxes:
+- icon: groups
+  box:
+    cols: 0
+    cols_vs: 2
+    card: y
+    rate: 2/3
+  get:
+  - from: cast.title
+    to: title
+  - from: cast.sub
+    to: sub
+  - from: cols
+    to: box.cols
+  - from: casts
+    to: boxes

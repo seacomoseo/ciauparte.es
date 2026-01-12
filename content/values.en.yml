@@ -1,0 +1,81 @@
+menu:
+  img: /u/base/logo.svg
+  items:
+  - url: /en/
+    label: Home
+    icon: home
+    anchor: UpArte Cia - Contemporary Circus Company
+  - url: /en/#nosotros
+    label: About us
+    icon: info
+  - url: /en/#espectaculos
+    label: Shows
+    icon: auto_awesome
+    items:
+    - url: /en/sisifos/
+      label: Sísifos
+      icon: circle
+    - url: /en/desprovisto/
+      label: DESproVISTO
+      icon: apparel
+    - url: /en/aureo/
+      label: Áureo
+      icon: deployed_code
+    - url: /en/todo-encaja/
+      label: Todo Encaja
+      icon: package_2
+  - url: /en/#agenda
+    label: Tour
+    icon: calendar_today
+  - url: /en/#premios
+    label: Awards
+    icon: workspace_premium
+  - url: /en/#criticas
+    label: Reviews
+    icon: reviews
+  - url: /en/#contacto
+    label: Contact
+    icon: send
+    btn: cta
+
+callnows: []
+
+show: Show
+
+details:
+  title: Details
+  sub: Memorable
+
+cast:
+  title: Cast
+  sub: Performers
+
+photos:
+  title: Photos
+  sub: Immortalized
+
+contact:
+  title: Contact
+  sub: What are you waiting for?
+  info: Information and/or Booking
+  distr: Spain Distribution
+  name: Name
+  mail: Email
+  message: Message
+  map: Map
+
+footer:
+  color: black
+  div: arrow
+  dots:
+  - url: https://www.instagram.com/uparte.cia/
+  - url: https://www.facebook.com/cia.uparte
+  - url: https://www.youtube.com/channel/UCDrN8eMyrFxe9YTA5hQOIWA
+  - url: https://www.redescena.net/compania/37104/cia-uparte/
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

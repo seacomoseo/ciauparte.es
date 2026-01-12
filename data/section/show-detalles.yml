@@ -1,0 +1,16 @@
+name: Espectáculos ➡️ Detalles
+id: detalles
+if: mds
+size: sm
+boxes:
+- icon: auto_awesome
+  box:
+    gap_vs: 2
+    md_align: left
+  get:
+  - from: details.title
+    to: title
+  - from: details.sub
+    to: sub
+  - from: mds
+    to: boxes

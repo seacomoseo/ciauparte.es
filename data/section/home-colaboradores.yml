@@ -1,0 +1,30 @@
+name: Inicio ➡️ Colaboradores
+id: colaboradores
+menu_btn: hide
+boxes:
+- icon: handshake
+  box:
+    cols: 4
+    cols_vs: 2
+    ratio: 16/9
+    contain: y
+    gray: y
+  boxes:
+  - img: /u/colaborador/la-chimenea-escenica.svg
+  - img: /u/colaborador/ayuntamiento-murcia.svg
+  - img: /u/colaborador/teatro-circo-murcia.svg
+  - img: /u/colaborador/circo-a-escena.svg
+  - img: /u/colaborador/carm.svg
+  - img: /u/colaborador/ministerio-de-cutura-y-deporte.svg
+  - img: /u/colaborador/inaem.svg
+  - img: /u/colaborador/platea.svg
+  - img: /u/colaborador/comisiones-artisticas-de-la-red.svg
+  - img: /u/colaborador/zirkozaurre.svg
+  - img: /u/colaborador/ica.svg
+  - img: /u/colaborador/fmc.png
+  - img: /u/colaborador/lava.png
+  get:
+  - from: collaborators.title
+    to: title
+  - from: collaborators.sub
+    to: sub

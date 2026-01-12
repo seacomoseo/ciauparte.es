@@ -1,3 +1,3 @@
 # ciauparte.es
 
-[![ciauparte.es](/assets/media/logo.png)](https://ciauparte.es/)
+[![ciauparte.es](/uploads/logo.png)](https://ciauparte.es/)

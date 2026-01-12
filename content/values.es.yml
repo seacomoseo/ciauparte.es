@@ -1,0 +1,81 @@
+menu:
+  img: /u/base/logo.svg
+  items:
+  - url: /
+    label: Inicio
+    icon: home
+    anchor: UpArte Cia - Compañía de Circo Contemporáneo
+  - url: /#nosotros
+    label: Nosotros
+    icon: info
+  - url: /#espectaculos
+    label: Espectáculos
+    icon: auto_awesome
+    items:
+    - url: /sisifos/
+      label: Sísifos
+      icon: circle
+    - url: /desprovisto/
+      label: DESproVISTO
+      icon: apparel
+    - url: /aureo/
+      label: Áureo
+      icon: deployed_code
+    - url: /todo-encaja/
+      label: Todo Encaja
+      icon: package_2
+  - url: /#agenda
+    label: Agenda
+    icon: calendar_today
+  - url: /#premios
+    label: Premios
+    icon: workspace_premium
+  - url: /#criticas
+    label: Críticas
+    icon: reviews
+  - url: /#contacto
+    label: Contacto
+    icon: send
+    btn: cta
+
+callnows: []
+
+show: Expectáculo
+
+details:
+  title: Detalles
+  sub: Memorables
+
+cast:
+  title: Elenco
+  sub: Intérpretes
+
+photos:
+  title: Fotos
+  sub: Inmoratilzados
+
+contact:
+  title: Contacto
+  sub: ¿A qué esperas?
+  info: Información y/o Contratación
+  distr: Distribución España
+  name: Nombre
+  mail: Email
+  message: Mensaje
+  map: Mapa
+
+footer:
+  color: black
+  div: arrow
+  dots:
+  - url: https://www.instagram.com/uparte.cia/
+  - url: https://www.facebook.com/cia.uparte
+  - url: https://www.youtube.com/channel/UCDrN8eMyrFxe9YTA5hQOIWA
+  - url: https://www.redescena.net/compania/37104/cia-uparte/
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

@@ -1,0 +1,14 @@
+name: Inicio ➡️ Espectáculos
+id: espectaculos
+size: lg
+boxes:
+- icon: auto_awesome
+  get:
+  - from: shows.title
+    to: title
+  - from: shows.sub
+    to: sub
+  list:
+    type: show
+  box:
+    cols: 4

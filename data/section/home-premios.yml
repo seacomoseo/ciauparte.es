@@ -1,0 +1,14 @@
+name: Inicio ➡️ Premios
+id: premios
+boxes:
+- icon: workspace_premium
+  get:
+  - from: awards.title
+    to: title
+  - from: awards.sub
+    to: sub
+  - from: awards.items
+    to: steps
+  step:
+    icon_size: 1
+    hs: 5

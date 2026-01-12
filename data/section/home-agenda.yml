@@ -1,0 +1,27 @@
+name: Inicio ➡️ Agenda
+id: agenda
+boxes:
+- icon: calendar_today
+  get:
+  - from: schedule.title
+    to: title
+  - from: schedule.sub
+    to: sub
+  - from: schedule.items
+    to: boxes
+  remap:
+  - from: boxes.*.id
+  - from: boxes.*.md
+  - from: boxes.*.title
+    to: boxes.*.label
+  box:
+    cols: 7
+    cols_vs: 3
+modal:
+  caps: y
+  icon: calendar_today
+get:
+- from: schedule.items
+  to: modals
+remap:
+- from: modals.*.url

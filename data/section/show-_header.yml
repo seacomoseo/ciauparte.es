@@ -1,0 +1,17 @@
+name: Espectáculos ➡️ Header
+pt: 2
+div: arrow
+boxes:
+- get:
+  - to: title
+  - to: icon
+  - from: show
+    to: sub
+  - to: sub
+  caps: n
+- url: '#more'
+  pin: add
+  ratio: 16/9
+  get:
+  - to: vid
+  - to: img

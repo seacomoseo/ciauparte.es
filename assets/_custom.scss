@@ -1,0 +1,32 @@
+// General
+
+.sub {
+  font-size: 1.5em;
+}
+%font-quotes {
+  font-family: $font-family-cursive;
+  font-style: $font-style-cursive;
+  font-weight: $font-weight-cursive;
+  line-height: $line-height-cursive;
+  font-size: 1.5em;
+}
+
+// Header
+
+@mixin show-from($delay) {
+  animation: show-from .5s (.5s + .1 * $delay) both;
+}
+#body-home #header {
+  @media (min-aspect-ratio: 16/9) {
+    height: 56.25vw;
+  }
+  .sub { @include show-from(1); }
+  .btn { @include show-from(2); }
+}
+.type-show #header {
+  .box__title { @include show-from(1); }
+  .box__icon  { @include show-from(2); }
+  .box__sub   { @include show-from(3); }
+  .img        { @include show-from(4); }
+  .box__btn   { @include show-from(5); }
+}

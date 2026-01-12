@@ -1,0 +1,17 @@
+name: Inicio ➡️ Críticas
+id: criticas
+boxes:
+- title: Críticas
+  sub: Lo que dicen de nosotros
+  icon: reviews
+  get:
+  - from: reviews.title
+    to: title
+  - from: reviews.sub
+    to: sub
+  - from: reviews.items
+    to: reviews
+  review:
+    color: main-dark
+    slider: y
+    cols: 3

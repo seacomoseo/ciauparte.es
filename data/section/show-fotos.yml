@@ -1,0 +1,14 @@
+name: Espectáculos ➡️ Fotos
+id: fotos
+size: fluid
+boxes:
+- icon: camera
+  gallery:
+    cols: 6
+    ratio: 1/1
+  get:
+  - from: photos.title
+    to: title
+  - from: photos.sub
+    to: sub
+  - to: imgs

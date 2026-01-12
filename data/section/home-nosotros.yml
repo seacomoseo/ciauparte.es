@@ -1,0 +1,41 @@
+name: Inicio ➡️ Nosotros
+id: nosotros
+size: md
+boxes:
+- icon: info
+  get:
+  - from: about.title
+    to: title
+  - from: about.sub
+    to: sub
+  box:
+    cols: 2
+  boxes:
+  - bi: /u/espectaculo/sisifos/06.jpg
+    rate: 5/4
+  - align: left
+    align_y: center
+    pin: add
+    get:
+    - from: about.md
+      to: md
+    - from: about.url
+      to: url
+modal:
+  caps: y
+  color: dark
+modals:
+- title: '{{ i18n more }}'
+  icon: add_circle
+  box:
+    gap: 2
+    md_align: left
+  get:
+  - from: about.more.id
+    to: id
+  - from: about.more.title
+    to: title
+  - from: about.more.sub
+    to: sub
+  - from: about.more.mds
+    to: boxes
