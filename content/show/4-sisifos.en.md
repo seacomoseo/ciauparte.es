@@ -38,12 +38,12 @@ mds:
     | Lighting design           | **Pedro Bermejo**                                             |
     | Production                      | **Cia UpArte, in co-production with Nacho Vilar Producciones** |
 - md: |
-    [[::download:: Dossier]](/u/dossier-sisifos.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-sisifos.pdf)
   md_align: center
 # - md: |
-#     [[::download:: Dossier]](/u/dossier-sisifos-es.pdf)
-#     [[::download:: Raider Calle]](/u/raider-calle-sisifos-es.pdf)
-#     [[::download:: Raider Sala]](/u/raider-sala-sisifos-es.pdf)
+#     [[::download:: Dossier]](/u/pdf/dossier-sisifos-es.pdf)
+#     [[::download:: Raider Calle]](/u/pdf/raider-calle-sisifos-es.pdf)
+#     [[::download:: Raider Sala]](/u/pdf/raider-sala-sisifos-es.pdf)
 #   md_align: center
 cols: 7
 casts:

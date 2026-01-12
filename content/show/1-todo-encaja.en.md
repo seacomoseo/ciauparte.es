@@ -40,9 +40,9 @@ mds:
     | Lighting and sound            | **Pedro Antonio Bermejo** |
     | Artistic collaboration          | **Guillem Fluixà**        |
 - md: |
-    [[::download:: Dossier]](/u/dossier-todo-encaja-en.pdf)
-    [[::download:: Street Rider]](/u/raider-calle-todo-encaja-en.pdf)
-    [[::download:: Indoor Rider]](/u/raider-sala-todo-encaja-en.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-todo-encaja-en.pdf)
+    [[::download:: Street Rider]](/u/pdf/raider-calle-todo-encaja-en.pdf)
+    [[::download:: Indoor Rider]](/u/pdf/raider-sala-todo-encaja-en.pdf)
   md_align: center
 casts: []
 imgs:

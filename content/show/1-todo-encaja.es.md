@@ -40,9 +40,9 @@ mds:
     | Iluminación y sonido            | **Pedro Antonio Bermejo** |
     | Colaboración artística          | **Guillem Fluixà**        |
 - md: |
-    [[::download:: Dossier]](/u/dossier-todo-encaja-es.pdf)
-    [[::download:: Raider Calle]](/u/raider-calle-todo-encaja-es.pdf)
-    [[::download:: Raider Sala]](/u/raider-sala-todo-encaja-es.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-todo-encaja-es.pdf)
+    [[::download:: Raider Calle]](/u/pdf/raider-calle-todo-encaja-es.pdf)
+    [[::download:: Raider Sala]](/u/pdf/raider-sala-todo-encaja-es.pdf)
   md_align: center
 casts: []
 imgs:

@@ -48,9 +48,9 @@ mds:
     | Scenery                    | **Miguel Manzano**        |
     | Costume design                       | **Pedro Lobo**            |
 - md: |
-    [[::download:: Dossier]](/u/dossier-aureo-en.pdf)
-    [[::download:: Street Rider]](/u/raider-calle-aureo-en.pdf)
-    [[::download:: Indoor Rider]](/u/raider-sala-aureo-en.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-aureo-en.pdf)
+    [[::download:: Street Rider]](/u/pdf/raider-calle-aureo-en.pdf)
+    [[::download:: Indoor Rider]](/u/pdf/raider-sala-aureo-en.pdf)
   md_align: center
 casts: []
 imgs:

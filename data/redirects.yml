@@ -20,7 +20,7 @@
 - { from: /pedro.tecnicoescenico@gmail.com , to: /#contacto }
 - { from: /herminio531@gmail.com , to: /#contacto }
 - { from: /es/* , to: /:splat }
-- { from: /wp-content/uploads/2019/03/Raider-calle-AUREO.pdf , to: /u/raider-calle-aureo-en.pdf }
+- { from: /wp-content/uploads/2019/03/Raider-calle-AUREO.pdf , to: /u/pdf/raider-calle-aureo-en.pdf }
 
 - { from: /en/inicio-english/ , to: /en/ }
 - { from: /en/todo-encaja-2/ , to: /en/#todo-encaja }

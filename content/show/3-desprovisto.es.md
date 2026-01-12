@@ -38,9 +38,9 @@ mds:
     | Iluminación y sonido            | **Pedro Antonio Bermejo** |
     | Co-producido por                | **UpArte y Nacho Vilar Producciones** |
 - md: |
-    [[::download:: Dossier]](/u/dossier-desprovisto-es.pdf)
-    [[::download:: Raider Calle]](/u/raider-calle-desprovisto-es.pdf)
-    [[::download:: Raider Sala]](/u/raider-sala-desprovisto-es.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-desprovisto-es.pdf)
+    [[::download:: Raider Calle]](/u/pdf/raider-calle-desprovisto-es.pdf)
+    [[::download:: Raider Sala]](/u/pdf/raider-sala-desprovisto-es.pdf)
   md_align: center
 cols: 6
 casts:

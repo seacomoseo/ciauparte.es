@@ -38,9 +38,9 @@ mds:
     | Lighting and sound            | **Pedro Antonio Bermejo** |
     | Co-produced by                | **UpArte and Nacho Vilar Producciones** |
 - md: |
-    [[::download:: Dossier]](/u/dossier-desprovisto-en.pdf)
-    [[::download:: Street Rider]](/u/raider-calle-desprovisto-en.pdf)
-    [[::download:: Indoor Rider]](/u/raider-sala-desprovisto-en.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-desprovisto-en.pdf)
+    [[::download:: Street Rider]](/u/pdf/raider-calle-desprovisto-en.pdf)
+    [[::download:: Indoor Rider]](/u/pdf/raider-sala-desprovisto-en.pdf)
   md_align: center
 cols: 6
 casts:

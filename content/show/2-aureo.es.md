@@ -48,9 +48,9 @@ mds:
     | Escenografía                    | **Miguel Manzano**        |
     | Vestuario                       | **Pedro Lobo**            |
 - md: |
-    [[::download:: Dossier]](/u/dossier-aureo-es.pdf)
-    [[::download:: Raider Calle]](/u/raider-calle-aureo-es.pdf)
-    [[::download:: Raider Sala]](/u/raider-sala-aureo-es.pdf)
+    [[::download:: Dossier]](/u/pdf/dossier-aureo-es.pdf)
+    [[::download:: Raider Calle]](/u/pdf/raider-calle-aureo-es.pdf)
+    [[::download:: Raider Sala]](/u/pdf/raider-sala-aureo-es.pdf)
   md_align: center
 casts: []
 imgs:
