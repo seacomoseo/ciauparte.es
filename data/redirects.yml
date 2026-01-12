@@ -1,7 +1,7 @@
 
 - { from: /es/inicio/ , to: / }
-- { from: /es/todo-encaja/ , to: /#todo-encaja }
-- { from: /es/aureo/ , to: /#aureo }
+- { from: /es/todo-encaja/ , to: /todo-encaja/ }
+- { from: /es/aureo/ , to: /aureo/ }
 - { from: /es/lacompania/ , to: /#nosotros }
 - { from: /es/agenda/ , to: /#agenda }
 - { from: /es/descargas/ , to: /#espectaculos }
@@ -12,9 +12,8 @@
 - { from: /es/category/sin-categoria/ , to: / }
 - { from: /category/sin-categoria/ , to: / }
 - { from: /espectaculos/ , to: /#espectaculos }
-- { from: /todo-encaja-2/ , to: /#todo-encaja }
-- { from: /aureo/ , to: /#aureo }
-- { from: /es/aureo/P&Uacute;BLICOS , to: /#aureo }
+- { from: /todo-encaja-2/ , to: /todo-encaja/ }
+- { from: /es/aureo/P&Uacute;BLICOS , to: /aureo/ }
 - { from: /lacompania/ , to: /#nosotros }
 - { from: /contacto/ , to: /#contacto }
 - { from: /pedro.tecnicoescenico@gmail.com , to: /#contacto }
@@ -23,12 +22,12 @@
 - { from: /wp-content/uploads/2019/03/Raider-calle-AUREO.pdf , to: /u/pdf/raider-calle-aureo-en.pdf }
 
 - { from: /en/inicio-english/ , to: /en/ }
-- { from: /en/todo-encaja-2/ , to: /en/#todo-encaja }
-- { from: /en/aureo-2/ , to: /en/#aureo }
-- { from: /en/the-company/ , to: /en/#about-us }
-- { from: /en/schedule/ , to: /en/#schedule }
-- { from: /en/downloads/ , to: /en/#shows }
-- { from: /en/contact/ , to: /en/#contact }
+- { from: /en/todo-encaja-2/ , to: /en/todo-encaja/ }
+- { from: /en/aureo-2/ , to: /en/aureo/ }
+- { from: /en/the-company/ , to: /en/#nosotros }
+- { from: /en/schedule/ , to: /en/#agenda }
+- { from: /en/downloads/ , to: /en/#espectaculos }
+- { from: /en/contact/ , to: /en/#contacto }
 - { from: /en/feed/ , to: /en/feed.xml }
 - { from: /en/comments/feed/ , to: /en/feed.xml }
 - { from: /en/category/sin-categoria/feed/ , to: /en/feed.xml }
