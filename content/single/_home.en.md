@@ -137,7 +137,9 @@ schedule:
       | Jan |  25 | DESproVISTO | Vilanova i la Geltrú |
       | Feb |  25 | Sísifos     | FETEN, Gijón         |
       | Mar |   6 | DESproVISTO | Puertollano          |
-      | Mar |  25 | Sísifos     | dFeria, Donosti      |
+      | Mar |  18 | Sísifos     | dFeria, Donosti      |
+      | May |  15 | Sísifos     | Umore Azoka Leioa    |
+      | May |  16 | Sísifos     | Umore Azoka Leioa    |
   - id: agenda-2025
     url: '#agenda-2025'
     title: '2025'
@@ -570,6 +572,9 @@ reviews:
   title: Reviews
   sub: What they say about us
   items:
+  - title: '[Sangunt a Escena 2023](https://www.redescenica.com/sagunt-a-escena-2023-desprovisto-de-compania-uparte/)'
+    md: |
+      **DESproVISTO** invites us, through high-level acrobatic technical performance, to play with ourselves, with our shame and fears, to show our fragility, to break with the rigidity that oppresses us, to be flexible first with ourselves and then with the world around us, to accept uncertainty and change.
   - title: '[Festival Circada 2021](https://festivalcircada.com/portfolio/uparte/)'
     md: |
       From a circus point of view, we are looking at an acrobatic troupe unparalleled in Spanish contemporary circus, which has been incorporating more and more tricks and rescuing circus techniques of great risk and spectacularity, such as the Russian bar.

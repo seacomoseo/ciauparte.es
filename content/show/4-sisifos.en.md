@@ -2,8 +2,8 @@
 slug: sisifos
 title: Sísifos
 sum: 14 acrobats and live music turn infinite effort into a poetry of flights…
-img: /u/espectaculo/sisifos/17.jpg
-vid: https://youtu.be/WixK7H6qD8o
+img: /u/espectaculo/sisifos/13.jpg
+vid: https://youtu.be/K8EmGJ0af5E
 icon: circle
 seo:
   title: Sísifos - Contemporary circus show - UpArte Cia
@@ -11,6 +11,7 @@ weight: 3
 service_types:
 - Contemporary circus show
 sub: Show on tour
+logo: /u/espectaculo/sisifos/logo.png
 mds:
 - md: |
     UpArte's fourth work is the Murcian company's most ambitious. Inspired by the myth of Sisyphus and Albert Camus's reinterpretation of it, bodies in flight and in balance explore the futility of human efforts through the dramaturgy of the image.

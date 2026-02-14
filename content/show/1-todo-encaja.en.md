@@ -11,6 +11,7 @@ weight: 1
 service_types:
 - Contemporary circus show
 sub: null
+logo: /u/espectaculo/todo-encaja/logo.png
 mds:
 - md: |
     Six bodies on stage go up, down, dance, but above all they jump!. UpArte presents a live show that maintains high-level acrobatic technique, but this time the artists show their more human side with small touches of humor. A few boxes and a lot of fun.

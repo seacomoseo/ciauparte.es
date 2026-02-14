@@ -1,17 +1,30 @@
 name: Espectáculos ➡️ Header
-pt: 2
+# pt: 2
+size: xl
 div: arrow
 boxes:
-- get:
-  - to: title
-  - to: icon
-  - from: show
-    to: sub
-  - to: sub
-  caps: n
-- url: '#more'
-  pin: add
-  ratio: 16/9
-  get:
-  - to: vid
-  - to: img
+# - get:
+#   - to: title
+#   - to: title
+#   - to: icon
+#   - from: show
+#     to: sub
+#   - to: sub
+#   caps: n
+- hanchor: '{{ get title }} - {{ get show }}'
+- box:
+    cols: 2
+  boxes:
+  - fit: .613
+    ratio: 3/4
+    contain: y
+    get:
+    - from: logo
+      to: img
+  - fit: 1.387
+    ratio: 16/9
+    get:
+    - to: vid
+    - to: img
+# - url: '#more'
+#   pin: add

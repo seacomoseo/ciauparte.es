@@ -9,6 +9,7 @@ seo:
   title: Áureo - Contemporary circus show - UpArte Cia
 weight: 2
 sub: null
+logo: /u/espectaculo/aureo/logo.png
 service_types:
 - Contemporary circus show
 mds:

@@ -9,6 +9,7 @@ seo:
   title: Áureo - Espectáculo de circo contemporáneo - UpArte Cia
 weight: 2
 sub: null
+logo: /u/espectaculo/aureo/logo.png
 service_types:
 - Espectáculo de circo contemporáneo
 mds:

@@ -1,9 +1,9 @@
 name: Inicio ➡️ Header
-bi: /u/desprovisto.mp4#t=20&poster=fondo.jpg
+bi: /u/espectaculo/sisifos/video.mp4#t=6&poster=fondo.jpg
 fade: dark
 pt: 2
 pb: 3
-scroll: fix
+# scroll: fix
 fade_to: r
 div: arrow
 alpha: 0.7

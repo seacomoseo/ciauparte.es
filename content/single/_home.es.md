@@ -134,7 +134,9 @@ schedule:
       | Ene |  25 | DESproVISTO | Vilanova i la Geltrú |
       | Feb |  25 | Sísifos     | FETEN, Gijón         |
       | Mar |   6 | DESproVISTO | Puertollano          |
-      | Mar |  25 | Sísifos     | dFeria, Donosti      |
+      | Mar |  18 | Sísifos     | dFeria, Donosti      |
+      | May |  15 | Sísifos     | Umore Azoka Leioa    |
+      | May |  16 | Sísifos     | Umore Azoka Leioa    |
   - id: agenda-2025
     url: '#agenda-2025'
     title: '2025'
@@ -567,6 +569,9 @@ reviews:
   title: Críticas
   sub: Lo que dicen de nosotros
   items:
+  - title: '[Sangunt a Escena 2023](https://www.redescenica.com/sagunt-a-escena-2023-desprovisto-de-compania-uparte/)'
+    md: |
+      **DESproVISTO** nos invita, desde un desempeño técnico acrobático de alto nivel, a jugar con nosotros mismos, con nuestras vergüenzas y miedos, a mostrar nuestra fragilidad, a romper con la rigidez que nos oprime, a ser flexibles en primer lugar con nosotras mismas y después con el mundo que nos rodea, a aceptar la incertidumbre, el cambio.
   - title: '[Festival Circada 2021](https://festivalcircada.com/portfolio/uparte/)'
     md: |
       Desde el punto de vista circense,

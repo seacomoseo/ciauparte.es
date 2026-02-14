@@ -11,6 +11,7 @@ weight: 3
 service_types:
 - Contemporary circus show
 sub: null
+logo: /u/espectaculo/desprovisto/logo.png
 mds:
 - md: |
     Deprived of everything except ourselves, the eternal search to free ourselves from appearances, prejudices, and roles, showing ourselves naked and vulnerable to the world, where we will always find the other in moments of doubt or danger. DESproVISTO is a bet on plasticity, flexibility, and change, realizing that not everything has to always be the same way.

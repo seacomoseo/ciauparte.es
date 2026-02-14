@@ -11,6 +11,7 @@ weight: 1
 service_types:
 - Espectáculo de circo contemporáneo
 sub: null
+logo: /u/espectaculo/todo-encaja/logo.png
 mds:
 - md: |
     Seis cuerpos sobre el escenario suben, bajan, bailan, pero sobre todo ¡saltan!. UpArte presenta un espectáculo vivo que mantiene la técnica acrobática de alto nivel, pero esta vez los artistas muestran su lado más humano con pequeños toques de humor. Unas cuantas cajas y mucha diversión.

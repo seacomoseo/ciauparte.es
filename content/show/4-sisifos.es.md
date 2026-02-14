@@ -2,8 +2,8 @@
 slug: sisifos
 title: Sísifos
 sum: 14 acróbatas y música en directo convierten el esfuerzo infinito en una poesía de vuelos…
-img: /u/espectaculo/sisifos/17.jpg
-vid: https://youtu.be/WixK7H6qD8o
+img: /u/espectaculo/sisifos/13.jpg
+vid: https://youtu.be/K8EmGJ0af5E
 icon: circle
 seo:
   title: Sísifos - Espectáculo de circo contemporáneo - UpArte Cia
@@ -11,6 +11,7 @@ weight: 3
 service_types:
 - Espectáculo de circo contemporáneo
 sub: Espectáculo en gira
+logo: /u/espectaculo/sisifos/logo.png
 mds:
 - md: |
     El cuarto trabajo de UpArte es la obra más ambiciosa de la compañía murciana. Inspirada en el mito de Sísifo y la reinterpretación que Albert Camus hace del mismo, cuerpos en vuelo y en equilibrio exploran la futilidad de los esfuerzos humanos a través de la dramaturgia de la imagen.
