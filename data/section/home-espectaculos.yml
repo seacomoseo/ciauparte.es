@@ -10,5 +10,3 @@ boxes:
     to: sub
   list:
     type: show
-  box:
-    cols: 4
