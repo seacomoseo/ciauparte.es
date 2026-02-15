@@ -2,16 +2,16 @@
 slug: todo-encaja
 title: Todo Encaja
 sum: Six bodies on stage go up, down, dance, but above all they jump!...
-img: /u/espectaculo/todo-encaja/01.jpg
+img: /u/espectaculo/todo-encaja/logo.png
+poster: /u/espectaculo/todo-encaja/01.jpg
 vid: https://youtu.be/2YwA5uJoy_o
 icon: package_2
 seo:
   title: Todo Encaja - Contemporary circus show - UpArte Cia
-weight: 1
+weight: -1
 service_types:
 - Contemporary circus show
 sub: null
-logo: /u/espectaculo/todo-encaja/logo.png
 mds:
 - md: |
     Six bodies on stage go up, down, dance, but above all they jump!. UpArte presents a live show that maintains high-level acrobatic technique, but this time the artists show their more human side with small touches of humor. A few boxes and a lot of fun.

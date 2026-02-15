@@ -2,14 +2,14 @@
 slug: aureo
 title: Áureo
 sum: Inspirándose en la divina proporción y el numero Phi, Áureo pretende sumergir al...
-img: /u/espectaculo/aureo/01.jpg
+img: /u/espectaculo/aureo/logo.png
+poster: /u/espectaculo/aureo/01.jpg
 vid: https://youtu.be/8kxXP_jKELQ
 icon: deployed_code
 seo:
   title: Áureo - Espectáculo de circo contemporáneo - UpArte Cia
-weight: 2
+weight: -2
 sub: null
-logo: /u/espectaculo/aureo/logo.png
 service_types:
 - Espectáculo de circo contemporáneo
 mds:

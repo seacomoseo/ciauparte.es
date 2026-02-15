@@ -2,16 +2,16 @@
 slug: desprovisto
 title: DESproVISTO
 sum: Expression of the liberation from the yoke that prejudices, roles and appearances represent...
-img: /u/espectaculo/desprovisto/03.jpg
+img: /u/espectaculo/desprovisto/logo.png
+poster: /u/espectaculo/desprovisto/03.jpg
 vid: https://youtu.be/y9N5n0dGTDc
 icon: apparel
 seo:
   title: DESproVISTO - Contemporary circus show - UpArte Cia
-weight: 3
+weight: -3
 service_types:
 - Contemporary circus show
 sub: null
-logo: /u/espectaculo/desprovisto/logo.png
 mds:
 - md: |
     Deprived of everything except ourselves, the eternal search to free ourselves from appearances, prejudices, and roles, showing ourselves naked and vulnerable to the world, where we will always find the other in moments of doubt or danger. DESproVISTO is a bet on plasticity, flexibility, and change, realizing that not everything has to always be the same way.

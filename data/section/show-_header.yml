@@ -19,12 +19,12 @@ boxes:
     ratio: 3/4
     contain: y
     get:
-    - from: logo
-      to: img
+    - to: img
   - fit: 1.387
     ratio: 16/9
     get:
     - to: vid
-    - to: img
+    - from: poster
+      to: img
 # - url: '#more'
 #   pin: add

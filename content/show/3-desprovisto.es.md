@@ -2,16 +2,16 @@
 slug: desprovisto
 title: DESproVISTO
 sum: Expresión de la liberación del yugo que los prejuicios, los roles y las apariencias suponen...
-img: /u/espectaculo/desprovisto/03.jpg
+img: /u/espectaculo/desprovisto/logo.png
+poster: /u/espectaculo/desprovisto/03.jpg
 vid: https://youtu.be/y9N5n0dGTDc
 icon: apparel
 seo:
   title: DESproVISTO - Espectáculo de circo contemporáneo - UpArte Cia
-weight: 3
+weight: -3
 service_types:
 - Espectáculo de circo contemporáneo
 sub: null
-logo: /u/espectaculo/desprovisto/logo.png
 mds:
 - md: |
     Desprovistos de todo salvo de nosotros mismos, la eterna búsqueda por librarnos de las apariencias, los prejuicios y los roles, mostrándonos desnudos y vulnerables al mundo, donde siempre encontraremos al otro en momentos de duda o peligro. DESproVISTO es una apuesta por la plasticidad, lo flexible y el cambio, dándonos cuenta que no todo tiene por qué ser siempre de la misma forma.

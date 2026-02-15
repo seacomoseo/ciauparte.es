@@ -2,16 +2,16 @@
 slug: todo-encaja
 title: Todo Encaja
 sum: Seis cuerpos sobre el escenario suben, bajan, bailan, pero sobre todo ¡saltan!...
-img: /u/espectaculo/todo-encaja/01.jpg
+img: /u/espectaculo/todo-encaja/logo.png
+poster: /u/espectaculo/todo-encaja/01.jpg
 vid: https://youtu.be/2YwA5uJoy_o
 icon: package_2
 seo:
   title: Todo Encaja - Espectáculo de circo contemporáneo - UpArte Cia
-weight: 1
+weight: -1
 service_types:
 - Espectáculo de circo contemporáneo
 sub: null
-logo: /u/espectaculo/todo-encaja/logo.png
 mds:
 - md: |
     Seis cuerpos sobre el escenario suben, bajan, bailan, pero sobre todo ¡saltan!. UpArte presenta un espectáculo vivo que mantiene la técnica acrobática de alto nivel, pero esta vez los artistas muestran su lado más humano con pequeños toques de humor. Unas cuantas cajas y mucha diversión.

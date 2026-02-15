@@ -24,11 +24,15 @@ tpl:
   - file: show-fotos
   - file: contacto
   list:
-    to: left
-    color: such
+    # to: left
+    color: hide
     align: center
-    icon_pos: sub
-    ratio: 4/3
-    inset: y
+    title: hide
+    icon: hide
+    # icon_pos: sub
+    ratio: 3/4
+    contain: y
+    inset: n
+    md: hide
     btn: cta
     pin: add

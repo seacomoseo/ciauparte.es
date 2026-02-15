@@ -2,14 +2,14 @@
 slug: aureo
 title: Áureo
 sum: Inspired by the divine proportion and the number Phi, Áureo aims to submerge the...
-img: /u/espectaculo/aureo/01.jpg
+img: /u/espectaculo/aureo/logo.png
+poster: /u/espectaculo/aureo/01.jpg
 vid: https://youtu.be/8kxXP_jKELQ
 icon: deployed_code
 seo:
   title: Áureo - Contemporary circus show - UpArte Cia
-weight: 2
+weight: -2
 sub: null
-logo: /u/espectaculo/aureo/logo.png
 service_types:
 - Contemporary circus show
 mds:
