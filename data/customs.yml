@@ -1,0 +1,163 @@
+# GLOBAL
+
+- types: [ global ]
+  name: show
+  label: Expectáculo
+- types: [ global ]
+  name: details
+  label: Detalles
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- types: [ global ]
+  name: cast
+  label: Elenco
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- types: [ global ]
+  name: photos
+  label: Fotos
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- types: [ global ]
+  name: contact
+  label: Contacto
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: info
+    label: Información y/o Contratación
+  - name: distr
+    label: Distribución España
+  - name: name
+    label: Nombre
+  - name: mail
+    label: Email
+  - name: message
+    label: Mensaje
+  - name: map
+    label: Mapa
+
+
+# SINGLE
+
+- types: [ single ]
+  name: header
+  label: Subtítulo
+- types: [ single ]
+  name: about
+  label: Nosotros
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - var: md
+  - var: url
+  - name: more
+    label: Más
+    widget: dict
+    sub:
+    - var: id
+    - var: sub
+    - name: mds
+      label: Contenidos
+      widget: slice
+      sub:
+      - var: md
+      - var: gallery
+      - var: imgs
+- types: [ single ]
+  name: shows
+  label: Espectáculos
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+- types: [ single ]
+  name: schedule
+  label: Agenda
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: items
+    label: Años
+    widget: slice
+    sub:
+    - var: id
+    - var: url
+    - var: title
+    - var: md
+- types: [ single ]
+  name: awards
+  label: Premios
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: items
+    label: Elementos
+    widget: slice
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: md
+- types: [ single ]
+  name: reviews
+  label: Críticas
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: items
+    label: Crítica
+    widget: slice
+    sub:
+    - var: title
+    - var: md
+- types: [ single ]
+  name: collaborators
+  label: Colaboradores
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+
+
+# SHOW
+
+- types: [ show ]
+  var: vid
+# - types: [ show ]
+#   var: sub
+- types: [ show ]
+  var: img
+  name: logo
+  label: Imagen de Logo
+- types: [ show ]
+  name: mds
+  label: Contenidos
+  widget: slice
+  sub:
+  - var: md
+  - var: gallery
+  - var: imgs
+  - var: md_align
+- types: [ show ]
+  var: cols
+- types: [ show ]
+  name: casts
+  label: Elenco
+  widget: slice
+  sub:
+  - var: sub
+  - var: img
+- types: [ show ]
+  var: imgs
