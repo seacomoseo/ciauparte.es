@@ -1,10 +1,20 @@
 ---
 slug: /
 title: Home
+img: /u/base/poster.svg
 seo:
   title: UpArte Cia - Contemporary Circus Company
   desc: llll➤ Contemporary Circus Company ✅ specialized in acrobatic lifts, banquine, towers, jumps into the void.
-img: /u/base/poster.svg
+tpl:
+  sections:
+  - file: home-_header
+  - file: home-nosotros
+  - file: home-espectaculos
+  - file: home-agenda
+  - file: home-premios
+  - file: home-criticas
+  - file: home-colaboradores
+  - file: contacto
 base: org
 org:
   types:
@@ -14,10 +24,7 @@ org:
   names:
   - UpArte Cia
   - UpArte
-  sum: Contemporary Circus Company
   legal: UpArte Cia
-  nif: null
-  mail: null
   logo: /u/base/poster.svg
   imgs:
   - /u/espectaculo/desprovisto/03.jpg
@@ -44,38 +51,26 @@ org:
     url: https://maps.app.goo.gl/ZowQjuja8enmhsHu7
   areas:
   - International
-  when: []
   prices: €€
   services:
-  - url: /en/sisifos/
-    title: Sísifos
+  - title: Sísifos
     desc: 14 acrobats and live music turn infinite effort into a poetry of flights...
-  - url: /en/desprovisto/
-    title: DESproVISTO
+    url: /en/sisifos/
+  - title: DESproVISTO
     desc: Expression of the liberation from the yoke that prejudices, roles and appearances suppose...
-  - url: /en/aureo/
-    title: Áureo
+    url: /en/desprovisto/
+  - title: Áureo
     desc: Inspired by the divine proportion and the number Phi, Áureo aims to submerge the...
-  - url: /en/todo-encaja/
-    title: Todo Encaja
+    url: /en/aureo/
+  - title: Todo Encaja
     desc: Six bodies on stage go up, down, dance, but above all they jump!...
-tpl:
-  sections:
-  - file: home-_header
-  - file: home-nosotros
-  - file: home-espectaculos
-  - file: home-agenda
-  - file: home-premios
-  - file: home-criticas
-  - file: home-colaboradores
-  - file: contacto
-
+    url: /en/todo-encaja/
+  sum: Contemporary Circus Company
 header: Contemporary Circus Company
-
 about:
   title: About Us
   sub: About Our Company
-  md: |
+  md: |-
     UpArte was born from the need to make our passion our work, to explore new horizons, not to settle, and to bet on transformation through culture.
 
     Using movement and the image of bodies and acrobatics as the main language, we create works from authenticity, care for aesthetics, and the desire to express different themes through the image. The result is visually interesting shows, with dramaturgies that, although not explicit, connect with the audience, who find themselves immersed in an atmosphere dominated by surprise, risk, and visual beauty.
@@ -84,7 +79,7 @@ about:
     id: nosotros-mas
     sub: About Us
     mds:
-    - md: |
+    - md: |-
         The UpArte company was born in Murcia at the end of 2012 under the roof of La Chimenea Escénica. What began as a fun hobby for a group of young people, with no expectations other than to enjoy and live experiences, would soon become a professional project that would capture the body and soul of its members, who would begin a great adventure to become the professional circus company they are today.
 
         Among the numerous festivals in which the Murcian troupe has taken part, it is worth highlighting its first appearance at CIRCADA OFF 2014, which awarded the company second prize, motivating the creation of its first large-format work Todo encaja (2015).
@@ -92,9 +87,9 @@ about:
         cols: 2
         gap: 1
       imgs:
-        - /u/espectaculo/todo-encaja/11.jpg
-        - /u/espectaculo/todo-encaja/12.jpg
-    - md: |
+      - /u/espectaculo/todo-encaja/11.jpg
+      - /u/espectaculo/todo-encaja/12.jpg
+    - md: |-
         With Todo encaja, the company began its professional career on important national and international stages, performing more than 150 shows and receiving awards in recognition of its work, such as the one obtained at the Festival International Cirque Arts Khourigba in Morocco (2017) or the Azahar Award for Performing Arts of Murcia for best street show (2017).
 
         UpArte would continue its artistic production with the show ÁUREO, premiered in 2018 at the Teatro Circo Murcia, a work with which it would again have a long trajectory, participating in numerous important festivals in the country, such as the A.R.CA festival in Aguilar de Campoo (2019) and the UMORE AZOKA fair in Leioa (2019), where it would receive prizes from the jury and the audience for best show.
@@ -104,25 +99,21 @@ about:
       imgs:
       - /u/espectaculo/aureo/11.jpg
       - /u/espectaculo/aureo/12.jpg
-    - md: |
-        During 2022, after significant changes in the team and structure of the company, the creation of DESproVISTO (2022) was developed, a work that evidences the maturation and transformation of the company, which chooses to take risks with new languages on stage, introducing dance and a more plastic and flexible aesthetic.
+    - md: During 2022, after significant changes in the team and structure of the company, the creation of DESproVISTO (2022) was developed, a work that evidences the maturation and transformation of the company, which chooses to take risks with new languages on stage, introducing dance and a more plastic and flexible aesthetic.
       imgs:
       - /u/espectaculo/desprovisto/09.jpg
-    - md: |
-        Without settling or getting comfortable, UpArte immerses itself in its most ambitious creation, Sísifos (2025). Inspired by the myth of Sisyphus and Albert Camus's reinterpretation of it, the company brings together a cast of 14 high-level acrobats and three directors from circus and theater to represent the metaphor of the meaning – or lack of meaning – of existence through the dramaturgy of the image.
+    - md: Without settling or getting comfortable, UpArte immerses itself in its most ambitious creation, Sísifos (2025). Inspired by the myth of Sisyphus and Albert Camus's reinterpretation of it, the company brings together a cast of 14 high-level acrobats and three directors from circus and theater to represent the metaphor of the meaning – or lack of meaning – of existence through the dramaturgy of the image.
       imgs:
       - /u/espectaculo/sisifos/04.jpg
-    - md: |
+    - md: |-
         Driven in its beginnings by its coach Vitaliy Motuzka, accompanied by Nacho Vilar Producciones and hosted by La Chimenea Escénica, UpArte has always sought to step out of its comfort zone, encouraging itself since its beginnings to the "even more difficult" and transforming later through new challenges and horizons, which have led it to bet on a contemporary language, deepen aesthetics and the conceptual, as well as leap into the void with new disciplines, such as juggling, Russian bar, or contemporary dance.
 
         As a result, UpArte offers shows that stand out for their precision and complexity, characterized by a minimalist proposal devoid of flashy costumes or elaborate sets.
 
         Focusing on physical prowess and movement, highlighting the purity of the circus action, UpArte aims to show a visual and physical exploration of space and the relationships between acrobats, leaving the dramaturgy to the image and the atmosphere it generates in each performance.
-
 shows:
   title: Shows
   sub: Let's fly!
-
 schedule:
   title: Tour
   sub: Events
@@ -130,20 +121,21 @@ schedule:
   - id: agenda-2026
     url: '#agenda-2026'
     title: '2026'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
-      | --- | --- | ----------- | -------------------- |
-      | Jan |   3 | DESproVISTO | Gijón                |
-      | Jan |  25 | DESproVISTO | Vilanova i la Geltrú |
-      | Feb |  25 | Sísifos     | FETEN, Gijón         |
-      | Mar |   6 | DESproVISTO | Puertollano          |
-      | Mar |  18 | Sísifos     | dFeria, Donosti      |
-      | May |  15 | Sísifos     | Umore Azoka Leioa    |
-      | May |  16 | Sísifos     | Umore Azoka Leioa    |
+      | --- | --- | --- | --- |
+      | Jan | 3 | DESproVISTO | Gijón |
+      | Jan | 25 | DESproVISTO | Vilanova i la Geltrú |
+      | Feb | 25 | Sísifos | FETEN, Gijón |
+      | Mar | 6 | DESproVISTO | Puertollano |
+      | Mar | 18 | Sísifos | dFeria, Donosti |
+      | May | 15 | Sísifos | Umore Azoka Leioa |
+      | May | 16 | Sísifos | Umore Azoka Leioa |
+      | May | 17 | Sísifos | Umore Azoka Leioa |
   - id: agenda-2025
     url: '#agenda-2025'
     title: '2025'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | --- | ----------- | ---------------------------------------------------------------------------- |
       | Mar |  17 | DESproVISTO | Auditorio Ciudad de León                                                     |
@@ -167,7 +159,7 @@ schedule:
   - id: agenda-2024
     url: '#agenda-2024'
     title: '2024'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | --- | ----------- | -------------------------------------------- |
       | Jan |  26 | DESproVISTO | Espacio La Granja, Tenerife                  |
@@ -189,7 +181,7 @@ schedule:
   - id: agenda-2023
     url: '#agenda-2023'
     title: '2023'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | --- | ----------- | -------------------------------------------- |
       | Mar |   3 | DESproVISTO | FETEN, Gijón                                 |
@@ -234,7 +226,7 @@ schedule:
   - id: agenda-2022
     url: '#agenda-2022'
     title: '2022'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | ------------------------- | ------------------------------------ |
       | Apr | 8     | Áureo                     | Albacete                             |
@@ -246,7 +238,7 @@ schedule:
   - id: agenda-2021
     url: '#agenda-2021'
     title: '2021'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | ------------------------- | ------------------------------------ |
       | Feb | 27    | Áureo                     | Teatro de Rojas, Toledo              |
@@ -291,7 +283,7 @@ schedule:
   - id: agenda-2020
     url: '#agenda-2020'
     title: '2020'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | --- | ----------- | --------------------------------------------- |
       | Feb | 9   | Áureo       | Cabezo de torres, Murcia                      |
@@ -326,7 +318,7 @@ schedule:
   - id: agenda-2019
     url: '#agenda-2019'
     title: '2019'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | ----------- | ------------------------------------------------------------ |
       | Mar | 9     | Todo Encaja | dFeria, Donosti                                              |
@@ -368,7 +360,7 @@ schedule:
   - id: agenda-2018
     url: '#agenda-2018'
     title: '2018'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | ----------- | ------------------------------------------------------------ |
       | Jan | 13    | Todo encaja | Argentona, Barcelona                                         |
@@ -402,7 +394,7 @@ schedule:
   - id: agenda-2017
     url: '#agenda-2017'
     title: '2017'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | -------------- | ---------------------------------------------- |
       | Feb | 24    | Todo Encaja    | Guadalupe, Murcia                              |
@@ -448,7 +440,7 @@ schedule:
   - id: agenda-2016
     url: '#agenda-2016'
     title: '2016'
-    md: |
+    md: |-
       | Month | Day | Show | Location |
       | --- | ----- | ----------- | ------------------------------------------------- |
       | Jan | 30    | Todo Encaja | Teatro Victoria Blanca, Murcia                    |
@@ -487,7 +479,7 @@ schedule:
   - id: agenda-2015
     url: '#agenda-2015'
     title: '2015'
-    md: |
+    md: |-
       | Show | Location |
       | ----------- | ----- |
       | Todo Encaja | Street theater festival, Artenbitritr, Alicante |
@@ -499,7 +491,7 @@ schedule:
   - id: agenda-2014
     url: '#agenda-2014'
     title: '2014'
-    md: |
+    md: |-
       | Show | Location |
       | ----------- | ----- |
       | UpArte | Creajoven (performing arts), Murcia |
@@ -512,13 +504,12 @@ schedule:
   - id: agenda-2013
     url: '#agenda-2013'
     title: '2013'
-    md: |
+    md: |-
       | Show | Location |
       | ----------- | ----- |
       | UpArte | "La chimenea" Circus Cabaret, Murcia |
       | UpArte | Festival Circarte, Alicante |
       | UpArte | Monovar circus festival, Alicante |
-
 awards:
   title: Awards
   sub: and honors
@@ -567,32 +558,29 @@ awards:
     sub: 2nd Prize
     icon: workspace_premium
     md: Circada OFF
-
 reviews:
   title: Reviews
   sub: What they say about us
   items:
   - title: '[Sangunt a Escena 2023](https://www.redescenica.com/sagunt-a-escena-2023-desprovisto-de-compania-uparte/)'
-    md: |
-      **DESproVISTO** invites us, through high-level acrobatic technical performance, to play with ourselves, with our shame and fears, to show our fragility, to break with the rigidity that oppresses us, to be flexible first with ourselves and then with the world around us, to accept uncertainty and change.
+    md: '**DESproVISTO** invites us, through high-level acrobatic technical performance, to play with ourselves, with our shame and fears, to show our fragility, to break with the rigidity that oppresses us, to be flexible first with ourselves and then with the world around us, to accept uncertainty and change.'
   - title: '[Festival Circada 2021](https://festivalcircada.com/portfolio/uparte/)'
-    md: |
+    md: |-
       From a circus point of view, we are looking at an acrobatic troupe unparalleled in Spanish contemporary circus, which has been incorporating more and more tricks and rescuing circus techniques of great risk and spectacularity, such as the Russian bar.
 
       It is clear that for UpArte there are no limits.
   - title: '[Umore Azoka 2019](http://www.umoreazoka.org/es/mejor-espectaculo-callejero/)'
-    md: |
+    md: |-
       The circus technique is impeccable.
 
       Through a perfectly choreographed development, the show immerses us in a crescendo of emotions.
   - title: '[Malabarat 2014](http://www.espaimenut.com/2014/08/cronica-de-un-malabarat-que-pone-los-pelos-de-punta-y-el-liston-muy-alto/)'
-    md: |
+    md: |-
       One of those shows that are difficult to describe. That leaves you with your heart in your mouth. That surprises.
 
       The **concentration, effort, and dedication** of the members of UpArte found its correspondence in an audience that didn't stop applauding every single one of the acrobatics, the somersaults, the flips at several meters high or the human towers.
 
       Without exaggeration. The plasticity of the exercise was impressive.
-
 collaborators:
   title: Collaborators
   sub: Friends
