@@ -2,8 +2,8 @@
 slug: sisifos
 title: Sísifos
 sum: 14 acrobats and live music turn infinite effort into a poetry of flights…
-img: /u/espectaculo/sisifos/logo.png
-poster: /u/espectaculo/sisifos/13.jpg
+img: /u/espectaculo/sisifos/13.jpg
+logo: /u/espectaculo/sisifos/logo.png
 vid: https://youtu.be/K8EmGJ0af5E
 icon: circle
 seo:

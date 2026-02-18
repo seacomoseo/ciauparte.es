@@ -2,8 +2,8 @@
 slug: todo-encaja
 title: Todo Encaja
 sum: Six bodies on stage go up, down, dance, but above all they jump!...
-img: /u/espectaculo/todo-encaja/logo.png
-poster: /u/espectaculo/todo-encaja/01.jpg
+img: /u/espectaculo/todo-encaja/01.jpg
+logo: /u/espectaculo/todo-encaja/logo.png
 vid: https://youtu.be/2YwA5uJoy_o
 icon: package_2
 seo:

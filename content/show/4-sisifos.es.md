@@ -2,8 +2,8 @@
 slug: sisifos
 title: Sísifos
 sum: 14 acróbatas y música en directo convierten el esfuerzo infinito en una poesía de vuelos…
-img: /u/espectaculo/sisifos/logo.png
-poster: /u/espectaculo/sisifos/13.jpg
+img: /u/espectaculo/sisifos/13.jpg
+logo: /u/espectaculo/sisifos/logo.png
 vid: https://youtu.be/K8EmGJ0af5E
 icon: circle
 seo:

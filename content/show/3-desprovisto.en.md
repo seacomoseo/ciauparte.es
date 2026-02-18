@@ -2,8 +2,8 @@
 slug: desprovisto
 title: DESproVISTO
 sum: Expression of the liberation from the yoke that prejudices, roles and appearances represent...
-img: /u/espectaculo/desprovisto/logo.png
-poster: /u/espectaculo/desprovisto/03.jpg
+img: /u/espectaculo/desprovisto/03.jpg
+logo: /u/espectaculo/desprovisto/logo.png
 vid: https://youtu.be/y9N5n0dGTDc
 icon: apparel
 seo:

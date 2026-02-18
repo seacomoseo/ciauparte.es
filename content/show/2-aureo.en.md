@@ -2,8 +2,8 @@
 slug: aureo
 title: Áureo
 sum: Inspired by the divine proportion and the number Phi, Áureo aims to submerge the...
-img: /u/espectaculo/aureo/logo.png
-poster: /u/espectaculo/aureo/01.jpg
+img: /u/espectaculo/aureo/01.jpg
+logo: /u/espectaculo/aureo/logo.png
 vid: https://youtu.be/8kxXP_jKELQ
 icon: deployed_code
 seo:

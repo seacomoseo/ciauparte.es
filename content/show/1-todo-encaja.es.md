@@ -2,8 +2,8 @@
 slug: todo-encaja
 title: Todo Encaja
 sum: Seis cuerpos sobre el escenario suben, bajan, bailan, pero sobre todo ¡saltan!...
-img: /u/espectaculo/todo-encaja/logo.png
-poster: /u/espectaculo/todo-encaja/01.jpg
+img: /u/espectaculo/todo-encaja/01.jpg
+logo: /u/espectaculo/todo-encaja/logo.png
 vid: https://youtu.be/2YwA5uJoy_o
 icon: package_2
 seo:

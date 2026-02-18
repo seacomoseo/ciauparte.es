@@ -2,8 +2,8 @@
 slug: desprovisto
 title: DESproVISTO
 sum: Expresión de la liberación del yugo que los prejuicios, los roles y las apariencias suponen...
-img: /u/espectaculo/desprovisto/logo.png
-poster: /u/espectaculo/desprovisto/03.jpg
+img: /u/espectaculo/desprovisto/03.jpg
+logo: /u/espectaculo/desprovisto/logo.png
 vid: https://youtu.be/y9N5n0dGTDc
 icon: apparel
 seo:
